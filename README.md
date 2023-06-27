@@ -4,9 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-LGPLv3-blue.svg" alt="License: LGPL-3.0">
   <img src="https://img.shields.io/github/stars/john62821/Image-Reverse-Search-TelegramBot?style=social" alt="GitHub Stars">
-  <img src="https://https://img.shields.io/github/forks/john62821/Image-Reverse-Search-TelegramBot?style=social" alt="GitHub Forks">
-  <img src="https://https://img.shields.io/github/issues/john62821/Image-Reverse-Search-TelegramBot" alt="GitHub Issues">
-  <img src="https://https://img.shields.io/github/issue-pr/john62821/Image-Reverse-Search-TelegramBot" alt="GitHub Pull Requests">
+  <img src="https://img.shields.io/github/forks/john62821/Image-Reverse-Search-TelegramBot?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/issues/john62821/Image-Reverse-Search-TelegramBot" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/issue-pr/john62821/Image-Reverse-Search-TelegramBot" alt="GitHub Pull Requests">
   <br>
   <a href="https://github.com/john62821"><img src="https://img.shields.io/badge/Author-John62821-1f425f.svg" alt="Author: John62821"></a>
   <a href="https://t.me/reverse_image_search_bot"><img src="https://img.shields.io/badge/Bot-Image%20Reverse%20Search-4250b6" alt="Bot: Image Reverse Search"></a>
